@@ -1,0 +1,6 @@
+hotel,deposit_type,total_bookings,cancellation_rate,mean_adr,total_revenue
+City Hotel,No Deposit,526,0.3288973384030418,108.9296577946768,179818.81
+City Hotel,Non Refund,88,1.0,93.89090909090909,23086.4
+Resort Hotel,No Deposit,339,0.21238938053097345,94.64474926253688,138154.34
+Resort Hotel,Non Refund,13,1.0,71.1923076923077,4221.05
+Resort Hotel,Refundable,3,0.0,80.33333333333333,373.0
